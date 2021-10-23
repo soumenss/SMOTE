@@ -1,0 +1,2 @@
+# SMOTE
+ Practising SMOTE
